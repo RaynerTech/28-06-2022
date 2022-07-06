@@ -64,30 +64,6 @@
     console.log(fibonacci(7))
 
 
-  
-
-
-
-
-
-
-
-
-
-    
-
-
-  //função chamada "add"
-  //function add(x, y) {
-  //  let resultado = x;
-  //  let n = y;
-  //  while (n > 0) {
-  //    resultado += 1;
-  //    n--;
-  //  }
-  //  return resultado;
-  //}
-
 
 
 
