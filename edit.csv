@@ -1,0 +1,55 @@
+
+//Add
+
+A	B	saida 
+2	4	6
+
+
+//multiply
+
+A	b	i	c	saida 
+6	8	i < b = 1 	c = add()	6
+6	8	i < b = 2	c = add()	12
+6	8	i < b =3	c= adda()	18
+6	8	i < b = 4	c= adda()	24
+6	8	i < b = 5	c= adda()	30
+6	8	i < b = 6	c= adda()	16
+6	8	i < b = 7	c= adda()	42
+6	8	i < b = 8	c= adda()	48
+
+
+//power
+
+x	n	i	        result	                          saida 
+2	8	i <= n = 1	result = multiply(result,x) =2	
+2	8	i <= n =2	result = multiply(result,x) = 4	
+2	8	i <= n =3	result = multiply(result,x) =8	
+2	8	i <= n =4	result = multiply(result,x) =16	
+2	8	i <= n =5	result = multiply(result,x) =32	
+2	8	i <= n =6	result = multiply(result,x) =64	
+2	8	i <= n =7	result = multiply(result,x) =128	
+2	8	i <= n =8	result = multiply(result,x) = 256	256
+
+
+
+
+
+//facctorial
+
+x	cont 	result	saida	
+4	2	cont = add(cont,1) = 2		
+4	3	cont = add(cont,1) = 6		
+4	4	cont = add(cont,1) = 24	24	
+
+
+
+//fibonacci
+
+x	i	resul2	temp1	temp2	result	saida 
+7	0	0	     1+0	  1	      1	
+7	2	1	     1+1	  1	      2	
+7	3	1	     2+ 1     2	      3	
+7	4	2	     3+2	  3	      5	
+7	5	3	     5+3	  5	      8	
+7	6	3	     8+5	  8	      13	
+7	7	5	     13			                 13
